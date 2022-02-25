@@ -1,0 +1,58 @@
+.bg-blue {
+    background-color: #F1F3FF;
+}
+
+.blue2 {
+    background-color: #0D28A6;
+}
+
+.rad {
+    border-radius: 4px;
+}
+
+* {
+    font-family: Helvetica;
+}
+
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .non1 {
+      text-decoration: none;
+  }
+
+  .unstyled {
+      list-style: none;
+  }
+
+  html {
+    scroll-behavior: smooth;
+}
+
+.icon-color {
+    color: white;
+}
+
+.hvr:hover {
+    text-decoration: underline;
+}
+
+.imgsz {
+    min-height: 40px;
+    max-width: 70px;
+    min-height: 40px;
+    max-height: 70px;
+}
+
+.iyellow {
+    color: #F9CC00;
+}
+
+.bg-blue2 {
+    background-color: #5E70C4;
+}
